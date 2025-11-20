@@ -4,7 +4,7 @@
 
 [![Facebook Badge](https://img.shields.io/badge/-thisistejaswi.in-%231877F2.svg?&style=flat-square&logoColor=white&link=https://thsiistejaswi.in/)](https://thisistejaswi.in/)
 
-Welcome to my profile! I'm a Computer Science Undergrad from Univerisyt of Delhi, specializing in Cybersecurity, Blockchain & Cryptography. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/anandtejaswi/)!
+Welcome to my profile! I'm a Computer Science Undergrad from University of Delhi, specializing in Cybersecurity, Blockchain & Cryptography. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/anandtejaswi/)!
 
 
 
