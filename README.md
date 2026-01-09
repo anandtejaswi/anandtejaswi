@@ -12,6 +12,9 @@ Welcome to my profile! I'm a Computer Science Undergrad from University of Delhi
 
 [![Tejaswi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandtejaswi&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Tejaswi's Tryhackme Stats]([![Tejaswi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandtejaswi&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+)
+
 
 ### Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
